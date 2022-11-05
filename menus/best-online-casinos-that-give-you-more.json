@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle best-online-casinos-that-give-you-more",
+        "command": "best-online-casinos-that-give-you-more:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "best-online-casinos-that-give-you-more",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "best-online-casinos-that-give-you-more:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

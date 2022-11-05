@@ -1,0 +1,19 @@
+{
+  "name": "best-online-casinos-that-give-you-more",
+  "main": "./lib/best-online-casinos-that-give-you-more",
+  "version": "0.0.0",
+  "description": "คาสิโนออนไลน์ที่ดีที่สุดในไทยที่ให้คุณมากกว่าเกม แต่ยังมีโบนัทต้อนรับที่น่าดึงดูดคลิกเลยแล้วคุณจะติดใจ",
+  "keywords": [
+    "คาสิโนออนไลน์ที่ดีที่สุด"
+  ],
+  "activationCommands": {
+    "atom-workspace": "best-online-casinos-that-give-you-more:toggle"
+  },
+  "repository": "https://github.com/nathanfreeman1111/best-online-casinos-that-give-you-moree",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
